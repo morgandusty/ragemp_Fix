@@ -7,7 +7,7 @@ https://github.com/morgandusty/ragemp_Fix/releases
 3. Играем :)
 
 
-P.S: О ВСЕХ ОШИБКАХ И Т.Д / dusty@Internet.ru
+P.S: О ВСЕХ ОШИБКАХ И Т.Д / https://github.com/morgandusty/ragemp_Fix/issues ИЛИ dusty@Internet.ru
 
 error your game version is not supported by rage multiplayer 1.53
 Error:Your game version is not supported by RAGE multiplayer
