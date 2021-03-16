@@ -1,6 +1,6 @@
 # ragemp_Fix
 
-https://drive.google.com/file/d/1yN1_cMaOPC8AXCH3fKP6ICkirVsFGmrm/view?usp=sharing
+https://github.com/morgandusty/ragemp_Fix/releases
 
 1. Качаем
 2. Кидаем с заменой в папку с гта5
