@@ -1,6 +1,6 @@
 ---
-name: Free form
-about: For everything that is NOT a bug report.
+name: Свобода
+about: Вопрос не касаемый ГТА5 или просто общение.
 title: ''
 labels: ''
 assignees: ''
@@ -9,8 +9,8 @@ assignees: ''
 
 <!--
 
-DO NOT USE THIS TEMPLATE FOR BUG REPORTS!
+НЕ ИСПОЛЬЗУЙТЕ ЭТОТ ВАРИАНТ ЕСЛИ ВАМ НУЖНА ПОМОЩЬ ОТ АДМИНИСТРАЦИИ!
 
-IF YOU DO, THEY WILL BE CLOSED AND MARKED AS INVALID!
+Я СЕРЬЕЗНО, ДАЖЕ НЕ ПЫТАЙТЕСЬ!
 
 -->
